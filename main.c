@@ -1,6 +1,6 @@
 #include "racional.c"
 
-void main() {
+int main() {
 
    RACIONAL *r1=criar(1,2);
    RACIONAL *r2=criar(1,2);
